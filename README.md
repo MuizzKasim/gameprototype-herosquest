@@ -1,7 +1,8 @@
 # Game Prototype: Hero's Quest
 A 3D game prototype made using Unity Engine revolving around the rpg and top-down theme genre.<br/>
-Note: This game was meant to be played at 1280x720 resolution<br/>
+Note: This game was meant to be played at 1280x720 resolution.<br/>
 Note: The game has no volume slider. Beware, sounds can be quite loud.<br/>
+Note: Repository only contains the source code, without including any other asset files.<br/>
 <br/>
 You can try the game using the following link:<br/>
 http://surl.li/fonfn<br/>
